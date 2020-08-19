@@ -1,2 +1,3 @@
 # hello-world
 A repository for learning github.
+Hello there! I love programming despite my completely different professional career ...
